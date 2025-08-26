@@ -1,8 +1,52 @@
 {
-  "hash": "f4b36b42",
+  "hash": "fa1d831f",
   "configHash": "ab356fae",
-  "lockfileHash": "e3b0c442",
-  "browserHash": "2d2501b5",
-  "optimized": {},
-  "chunks": {}
+  "lockfileHash": "a5c37032",
+  "browserHash": "be666de7",
+  "optimized": {
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "239edf52",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "68ac13f1",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "ef9a60f7",
+      "needsInterop": true
+    },
+    "framer-motion": {
+      "src": "../../node_modules/framer-motion/dist/es/index.mjs",
+      "file": "framer-motion.js",
+      "fileHash": "6ea98205",
+      "needsInterop": false
+    },
+    "react-lottie-player": {
+      "src": "../../node_modules/react-lottie-player/dist/LottiePlayer.modern.js",
+      "file": "react-lottie-player.js",
+      "fileHash": "5f574de9",
+      "needsInterop": false
+    },
+    "axios": {
+      "src": "../../node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "8e677fd3",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-32E4H3EV": {
+      "file": "chunk-32E4H3EV.js"
+    },
+    "chunk-G3PMV62Z": {
+      "file": "chunk-G3PMV62Z.js"
+    }
+  }
 }

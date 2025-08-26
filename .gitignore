@@ -1,5 +1,6 @@
 /node_modules
 /dist
+
 __pycache__/
 docker-compose.yml
 /backend/backend.Dockerfile
