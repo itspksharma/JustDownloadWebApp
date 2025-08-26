@@ -4,4 +4,4 @@ __pycache__/
 docker-compose.yml
 /backend/backend.Dockerfile
 /frontend/frontend.Dockerfile
-wheels
+/wheels
